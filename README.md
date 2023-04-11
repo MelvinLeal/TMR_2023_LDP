@@ -8,6 +8,5 @@ TEAM MEMBERS:
 - Josmar Jared
 - Ingrid Almeida
 - Nayelli Itzel
-- Eduardo
+- Mriela 
 - Guillermo
-- Angel
