@@ -3,7 +3,7 @@ Beach cleaner team from the Universidad Tecnologica del Sureste de Veracruz.
 
 
 
-TEAM MEMBERS:
+** TEAM MEMBERS:
 - Leal Quiroz Melvin Ramon (Leader)
 - Josmar Jared Guzman Gonzalez
 - Ingrid Amairani Angel Almeida
